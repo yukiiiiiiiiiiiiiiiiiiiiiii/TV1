@@ -1,23 +1,138 @@
 📺央视频道,#genre#
 翡翠台
 明珠台
-tvb plus
-tvb 星河
-TVBS 亚洲
-tvbs 亚洲
-TVBS 新闻
+tvbplus
+星河
+TVBS亚洲
+tvbs亚洲
+TVBS新闻
 Viutv
-hoy tv
+hoytv
 凤凰中文
 凤凰资讯
 凤凰香港
-中天新闻
-中天亚洲
-东森新闻
-东森财经
-台视新闻
-民视新闻
-三立新闻
+民視第一台
+民視台灣台
+民視
+大愛電視
+中視
+華視
+三立綜合台
+客家電視台
+八大綜藝台
+TVBS 精采台
+靖天綜合台
+靖天日本台
+新唐人亞太台
+ARIRANG 阿里郎頻道
+Global Trekker
+原住民族電視台
+東森購物二台
+LiveABC 互動英語頻道
+達文西頻道
+ELTV 生活英語台
+Nick Jr. 兒童頻道
+尼克兒童頻道
+DreamWorks 夢工廠動畫
+靖天卡通台
+靖洋卡通 Nice Bingo
+MOMO 親子台
+東森購物一台
+鏡電視新聞台
+東森新聞台
+華視新聞
+民視新聞台
+三立新聞 iNEWS
+TVBS 新聞
+東森財經新聞台
+中視新聞
+中天新聞台
+Bloomberg TV
+寰宇新聞台
+寰宇新聞台灣台
+SBN 全球財經台
+TVBS
+東森購物四台
+民視綜藝台
+豬哥亮歌廳秀
+靖天育樂台
+KLT - 靖天國際台
+Nice TV 靖天歡樂台
+靖天資訊台
+TVBS 歡樂台
+韓國娛樂台 KMTV
+ROCK Entertainment
+Lifetime 娛樂頻道
+電影原聲台 CMusic
+TRACE Urban
+Mezzo Live HD
+CLASSICA 古典樂
+東森購物三台
+getwin sport 運動台
+INULTRA
+博斯高球台
+博斯高球二台
+博斯運動一台
+博斯無限台
+博斯網球台
+博斯運動二台
+博斯魅力台
+博斯無限二台
+TRACE Sport Stars
+智林體育台
+時尚運動 X
+車迷 TV
+GINX Esports TV
+Pet Club TV
+民視旅遊台
+滾動力 rollor
+亞洲旅遊台
+fun 探索娛樂台
+幸福空間居家台
+Love Nature
+History 歷史頻道
+愛爾達生活旅遊台
+LUXE TV Channel
+TV5MONDE STYLE HD 生活時尚
+ROCK Xstream 搖滾極限頻道
+公視戲劇
+民視影劇台
+HITS 頻道
+八大精彩台
+靖天戲劇台
+靖洋戲劇台
+CI 罪案偵查頻道
+視納華仁紀實頻道
+影迷數位紀實台
+金光布袋戲
+ROCK Action
+GagaOOLala 精選 LGBTQ + 好劇
+采昌影劇台
+靖天映畫
+靖天電影台
+影迷數位電影台
+amc 電影台
+CinemaWorld
+My Cinema Europe HD 我的歐洲電影
+好消息
+好消息 2 台
+大愛二台
+人間衛視
+ABC Australia 澳洲公廣頻道
+NHK WORLD-JAPAN
+FRANCE24 英文台
+半島國際新聞台
+CNBC Asia 財經台
+DW 德國之聲
+香蕉直擊台
+國會頻道 1
+國會頻道 2
+TVBS 綜藝台
+TVBS 台劇台
+經典電影台
+經典卡通台
+精選動漫台
+傅子純的時光機
 澳视澳门
 澳门 TDM
 港台電視
