@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-22 14:47:31,http://r.jdshipin.com/n90gt
+2026-07-22 14:54:24,http://r.jdshipin.com/n90gt
 
 📺央视频道,#genre#
 翡翠台,http://r.jdshipin.com/n90gt
@@ -22,6 +22,7 @@
 明珠台,https://stream1.freetv.fun/fc542dddf6d96335d494c255d5df19fc0f2c61c46779dd9fe85e54b1559c3460.ctv
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://r.jdshipin.com/jUx8K
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
@@ -48,9 +49,3 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
-三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
-三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
-三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
-三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
