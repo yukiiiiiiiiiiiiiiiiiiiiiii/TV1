@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-28 19:49:51,http://r.jdshipin.com/n90gt
+2026-07-29 07:20:45,http://r.jdshipin.com/n90gt
 
 📺港澳台频道,#genre#
 翡翠台,http://r.jdshipin.com/n90gt
@@ -22,8 +22,8 @@
 明珠台,https://stream1.freetv.fun/fc542dddf6d96335d494c255d5df19fc0f2c61c46779dd9fe85e54b1559c3460.ctv
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://r.jdshipin.com/jUx8K
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
