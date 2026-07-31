@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-31 20:25:09,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+2026-08-01 06:47:06,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 
 📺港澳台频道,#genre#
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
