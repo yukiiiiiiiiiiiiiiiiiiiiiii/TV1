@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-27 10:18:03,http://r.jdshipin.com/n90gt
+2026-08-28 04:02:21,http://r.jdshipin.com/n90gt
 
 📺港澳台频道,#genre#
 翡翠台,http://r.jdshipin.com/n90gt
@@ -24,6 +24,11 @@
 明珠台,http://r.jdshipin.com/jUx8K
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+Viutv,http://r.jdshipin.com/TcKr2
+Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+Viutv,http://r.jdshipin.com/vSJvl
+Viutv,http://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.ctv
@@ -31,6 +36,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 凤凰中文,https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-21.ctv
@@ -39,6 +45,8 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 凤凰资讯,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰资讯,https://hls-gateway.vpstv.net/streams/476958.m3u8
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
