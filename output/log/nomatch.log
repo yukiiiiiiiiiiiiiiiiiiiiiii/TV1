@@ -1,84 +1,14 @@
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=844469045d865c56022761210c97c4be&wsTime=1788210052
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=c763736ea34cbe5d7e2648a4ed939930&wsTime=1788210052
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=55b7175d539c881540d8f9a538675122&wsTime=1788210052
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=9007e3bfb38ad8d504427847f0883732&wsTime=1788210052
-法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=45a3334a9fa102f99282280ca4b9b2e3&wsTime=1788210052
-公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=86fcaf01060de5e9345dd733bfc9031b&wsTime=1788210052
-河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=2100b6dd2e655dcd024f4f2ac885b381&wsTime=1788210052
-电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=00f0c09cd3734c01513b6c22b5f427fa&wsTime=1788210052
-梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=19efe1572fb0d724d2ca6879fe23b368&wsTime=1788210052
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=d51557a5cff50ddf003a4b74c0b57ba0&wsTime=1788210052
-武术频道,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=cca336324ab1a97064d7cc36a31c429f&wsTime=1788210052
-睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=5013450a4eae70887cfd3c0bad62a2c5&wsTime=1788210052
-国学频道,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=a012b94a209e1457ccb945385c2ca005&wsTime=1788210052
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=ea3e020ab6f67a856bd0def2918a0f26&wsTime=1788210052
-CCTV-1,http://182.140.125.47:808/hls/1/index.m3u8
-CCTV-1,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
-CCTV-1,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
-CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
-CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
-CCTV-2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
-CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
-CCTV-2,http://198.204.228.26/live/cctv2hd.m3u8
-CCTV-2,http://192.151.150.154/live/cctv2hd.m3u8
-CCTV-3,http://112.30.73.119:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-3,http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
-CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
-CCTV-3,http://69.30.245.50/live/cctv3.m3u8
-CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV-5,http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-5,http://112.30.73.119:229/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-5,http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://112.30.73.119:229/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-6,http://112.30.73.119:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-6,http://182.140.125.47:808/hls/6/index.m3u8
-CCTV-7,http://207.56.13.146:81/cdnlive/cctv7.m3u8
-CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
-CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
-CCTV-7,http://173.208.212.130:8181/720p/cctv7.m3u8
-CCTV-8,http://112.30.73.119:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-8,http://112.30.73.119:229/tsfile/live/0008_2.m3u8?key=txiptv&playlive=0&authid=0
-翡翠台北美版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
-CCTV-8,http://207.56.13.146:81/cdnlive/cctv8.m3u8
-TVB翡翠台 1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-澳门Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
-CCTV-8,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
-無線新聞台,http://r.jdshipin.com/CkuBd
-澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-CCTV-8,http://69.30.245.50/live/cctv8.m3u8
-TVB無線新聞,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
-澳门Macau,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-CCTV-8,http://173.208.212.130:8181/720p/cctv8.m3u8
-無線新聞,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-澳门Macau,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
-無線新聞,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-CCTV-9,http://192.151.150.154/live/cctv9hd.m3u8
-TVB明珠,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
-澳门葡语,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-CCTV-9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
-有線財經信息台,https://epg.pw/stream/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8
-澳门葡语,http://61.244.22.4/ch2/ch2.live/index.m3u8
-RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-CCTV-9,https://xykt-fix.github.io/Y77.m3u8
-ViuTV,http://r.jdshipin.com/vSJvl
-澳门体育,http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
-RTHK TV 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-CCTV-10,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
-HOY TV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
-澳门体育 (720p),http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
-HOY TV Ⓖ,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-CCTV-10,http://221.7.175.154:8445/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-HOY TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-TVB News Channel,https://tvp22.sky4k.top/index1.php
-CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-HOY TV,http://r.jdshipin.com/sFw4S
-澳门信息,http://61.244.22.4/ch5/info_ch5.live/master.m3u8
-TVB Finance (Sports & Information Channel),https://tvp22.sky4k.top/index2.php
-CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-澳门信息,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
+Canal Macau Ch. 92 (720p) [Not 24/7],https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+Celestial Movies (576i),http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Lotus Macau HD 720p (720p),https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+HOY Infotainment (1080p) [Geo-blocked],https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
+Ou-Mun Macau Satellite Ch. 96 (720p),https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+HOY International Business Channel (1080p) [Geo-blocked],https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+TDM Entertainment Ch. 95 (720p),https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+HOY TV (1080p) [Geo-blocked],https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
+TDM Info. Macau (720p) [Not 24/7],https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
+TDM Ou Mun Macau Ch. 91 (720p),http://61.244.22.4/ch1/ch1.live/playlist.m3u8
+RTHK TV 31 (港台電視31) (1080p) [Geo-blocked],https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+TDM Sports Ch. 93 (720p),https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+RTHK TV 32 (港台電視32) (1080p) [Geo-blocked],https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
