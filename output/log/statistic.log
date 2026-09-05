@@ -1,9 +1,9 @@
-Category: 📺港澳台频道, Name: 翡翠台, Total: 43, Valid: 7, Valid Percent: 16.28%, Whitelist: 0, IPv4: 7, IPv6: 36, Min Delay: 10030 ms, Max Speed: 0.80 M/s, Avg Speed: 0.23 M/s, Max Resolution: 1920x1080
-Category: 📺港澳台频道, Name: 明珠台, Total: 24, Valid: 6, Valid Percent: 25.00%, Whitelist: 0, IPv4: 6, IPv6: 18, Min Delay: 9681 ms, Max Speed: 0.78 M/s, Avg Speed: 0.28 M/s, Max Resolution: 1920x1080
+Category: 📺港澳台频道, Name: 翡翠台, Total: 36, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 36, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 📺港澳台频道, Name: 明珠台, Total: 19, Valid: 1, Valid Percent: 5.26%, Whitelist: 0, IPv4: 1, IPv6: 18, Min Delay: 10465 ms, Max Speed: 0.05 M/s, Avg Speed: 0.05 M/s, Max Resolution: 1920x1080
 Category: 📺港澳台频道, Name: TVBS亚洲, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📺港澳台频道, Name: TVBS新闻, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 7433 ms, Max Speed: 0.28 M/s, Avg Speed: 0.28 M/s, Max Resolution: 1280x720
+Category: 📺港澳台频道, Name: TVBS新闻, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 7013 ms, Max Speed: 0.28 M/s, Avg Speed: 0.28 M/s, Max Resolution: 1280x720
 Category: 📺港澳台频道, Name: Viutv, Total: 6, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 6, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📺港澳台频道, Name: 凤凰中文, Total: 8, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 8, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📺港澳台频道, Name: 凤凰资讯, Total: 10, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 10, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 📺港澳台频道, Name: 凤凰香港, Total: 11, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 11, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 📺港澳台频道, Name: Pet Club TV, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2192 ms, Max Speed: 1.47 M/s, Avg Speed: 1.47 M/s, Max Resolution: 640x360
+Category: 📺港澳台频道, Name: Pet Club TV, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1992 ms, Max Speed: 1.69 M/s, Avg Speed: 1.69 M/s, Max Resolution: 640x360
