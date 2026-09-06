@@ -1,7 +1,6 @@
 🕘️更新时间,#genre#
-2026-09-05 21:38:22,http://120.198.84.146:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-06 08:00:08,http://61.221.215.25:8800/hls/9/index.m3u8
 
 📺港澳台频道,#genre#
-明珠台,http://120.198.84.146:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
