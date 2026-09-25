@@ -1,7 +1,6 @@
 🕘️更新时间,#genre#
-2026-09-25 08:40:25,https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+2026-09-25 23:22:57,http://61.221.215.25:8800/hls/9/index.m3u8
 
 📺港澳台频道,#genre#
-明珠台,https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
