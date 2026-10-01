@@ -1,158 +1,8 @@
 <?xml version="1.0" ?>
-<tv date="20260930164240 +0800">
+<tv date="20261001012645 +0800">
 	<channel id="凤凰中文">
 		<display-name lang="zh">凤凰中文</display-name>
 	</channel>
-	<programme channel="凤凰中文" start="20260924000000 +0800" stop="20260924005700 +0800">
-		<title lang="zh">凤凰洲际快车 -24/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924005700 +0800" stop="20260924010000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924010000 +0800" stop="20260924013000 +0800">
-		<title lang="zh">有报天天读 -23/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924013000 +0800" stop="20260924020000 +0800">
-		<title lang="zh">凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924020000 +0800" stop="20260924023000 +0800">
-		<title lang="zh">纪录大时代 第1632集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924023000 +0800" stop="20260924030000 +0800">
-		<title lang="zh">亚洲财经透视 第1231集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924030000 +0800" stop="20260924033000 +0800">
-		<title lang="zh">新闻今日谈 -23/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924033000 +0800" stop="20260924040000 +0800">
-		<title lang="zh">凤凰聚焦 第1233集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924040000 +0800" stop="20260924043000 +0800">
-		<title lang="zh">石评天下 第174集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924043000 +0800" stop="20260924050000 +0800">
-		<title lang="zh">凤凰全球连线 -23/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924050000 +0800" stop="20260924053000 +0800">
-		<title lang="zh">有报天天读 -23/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924053000 +0800" stop="20260924060000 +0800">
-		<title lang="zh">凤凰冲击播 第406集 -军情观察室</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924060000 +0800" stop="20260924063000 +0800">
-		<title lang="zh">纪录大时代 第1632集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924063000 +0800" stop="20260924070000 +0800">
-		<title lang="zh">总编辑时间 -23/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924070000 +0800" stop="20260924075700 +0800">
-		<title lang="zh">凤凰早班车 -24/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924075700 +0800" stop="20260924080000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924080000 +0800" stop="20260924085700 +0800">
-		<title lang="zh">凤凰早班车 -24/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924085700 +0800" stop="20260924090000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924090000 +0800" stop="20260924093000 +0800">
-		<title lang="zh">凤凰全球连线 -23/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924093000 +0800" stop="20260924100000 +0800">
-		<title lang="zh">凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924100000 +0800" stop="20260924105700 +0800">
-		<title lang="zh">凤凰正点播报 1000 -24/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924105700 +0800" stop="20260924110000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924110000 +0800" stop="20260924113000 +0800">
-		<title lang="zh">凤凰聚焦 第1233集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924113000 +0800" stop="20260924120000 +0800">
-		<title lang="zh">有报天天读 -24/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924120000 +0800" stop="20260924125500 +0800">
-		<title lang="zh">凤凰午间专列 -24/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924125500 +0800" stop="20260924130000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924130000 +0800" stop="20260924133000 +0800">
-		<title lang="zh">总编辑时间 -23/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924133000 +0800" stop="20260924140000 +0800">
-		<title lang="zh">发现大湾区 第189集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924140000 +0800" stop="20260924143000 +0800">
-		<title lang="zh">冷暖人生 第444集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924143000 +0800" stop="20260924150000 +0800">
-		<title lang="zh">凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924150000 +0800" stop="20260924155700 +0800">
-		<title lang="zh">凤凰正点播报 1500 -24/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924155700 +0800" stop="20260924160000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924160000 +0800" stop="20260924163000 +0800">
-		<title lang="zh">凤凰冲击播 第406集 -军情观察室</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924163000 +0800" stop="20260924170000 +0800">
-		<title lang="zh">纪录大时代 第1633集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924170000 +0800" stop="20260924171500 +0800">
-		<title lang="zh">我的香港故事 第242集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924171500 +0800" stop="20260924173000 +0800">
-		<title lang="zh">我的香港故事 第241集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924173000 +0800" stop="20260924180000 +0800">
-		<title lang="zh">有报天天读 -24/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924180000 +0800" stop="20260924182700 +0800">
-		<title lang="zh">凤凰焦点新闻 1800 -24/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924182700 +0800" stop="20260924183000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924183000 +0800" stop="20260924190000 +0800">
-		<title lang="zh">新闻今日谈 -24/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924190000 +0800" stop="20260924193000 +0800">
-		<title lang="zh">亚洲财经透视 第1232集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924193000 +0800" stop="20260924200000 +0800">
-		<title lang="zh">总编辑时间 -24/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924200000 +0800" stop="20260924203000 +0800">
-		<title lang="zh">凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924203000 +0800" stop="20260924210000 +0800">
-		<title lang="zh">凤凰冲击播 第439集 -风云对话</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924210000 +0800" stop="20260924215500 +0800">
-		<title lang="zh">时事直通车 -24/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924215500 +0800" stop="20260924220000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924220000 +0800" stop="20260924223000 +0800">
-		<title lang="zh">凤凰聚焦 第1234集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924223000 +0800" stop="20260924230000 +0800">
-		<title lang="zh">凤凰全球连线 -24/9/26</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924230000 +0800" stop="20260924233000 +0800">
-		<title lang="zh">亚洲财经透视 第1232集</title>
-	</programme>
-	<programme channel="凤凰中文" start="20260924233000 +0800" stop="20260925000000 +0800">
-		<title lang="zh">新闻今日谈 -24/9/26</title>
-	</programme>
 	<programme channel="凤凰中文" start="20260925000000 +0800" stop="20260925005700 +0800">
 		<title lang="zh">凤凰洲际快车 -25/9/26</title>
 	</programme>
@@ -1152,198 +1002,156 @@
 	<programme channel="凤凰中文" start="20261001233000 +0800" stop="20261002000000 +0800">
 		<title lang="zh">新闻今日谈 -1/10/26</title>
 	</programme>
+	<programme channel="凤凰中文" start="20261002000000 +0800" stop="20261002005700 +0800">
+		<title lang="zh">凤凰洲际快车 -2/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002005700 +0800" stop="20261002010000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002010000 +0800" stop="20261002013000 +0800">
+		<title lang="zh">有报天天读 -1/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002013000 +0800" stop="20261002020000 +0800">
+		<title lang="zh">凤凰大视野</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002020000 +0800" stop="20261002023000 +0800">
+		<title lang="zh">纪录大时代 第1638集</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002023000 +0800" stop="20261002030000 +0800">
+		<title lang="zh">亚洲财经透视 第1237集</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002030000 +0800" stop="20261002033000 +0800">
+		<title lang="zh">新闻今日谈 -1/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002033000 +0800" stop="20261002040000 +0800">
+		<title lang="zh">凤凰聚焦 第1239集</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002040000 +0800" stop="20261002043000 +0800">
+		<title lang="zh">筑梦天下 第499集</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002043000 +0800" stop="20261002050000 +0800">
+		<title lang="zh">凤凰全球连线 -1/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002050000 +0800" stop="20261002053000 +0800">
+		<title lang="zh">有报天天读 -1/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002053000 +0800" stop="20261002060000 +0800">
+		<title lang="zh">凤凰冲击播 第439集 -风云对话</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002060000 +0800" stop="20261002063000 +0800">
+		<title lang="zh">纪录大时代 第1638集</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002063000 +0800" stop="20261002070000 +0800">
+		<title lang="zh">总编辑时间 -1/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002070000 +0800" stop="20261002075700 +0800">
+		<title lang="zh">凤凰早班车 -2/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002075700 +0800" stop="20261002080000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002080000 +0800" stop="20261002085700 +0800">
+		<title lang="zh">凤凰早班车 -2/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002085700 +0800" stop="20261002090000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002090000 +0800" stop="20261002093000 +0800">
+		<title lang="zh">凤凰全球连线 -1/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002093000 +0800" stop="20261002100000 +0800">
+		<title lang="zh">凤凰大视野</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002100000 +0800" stop="20261002105700 +0800">
+		<title lang="zh">凤凰正点播报 1000 -2/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002105700 +0800" stop="20261002110000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002110000 +0800" stop="20261002113000 +0800">
+		<title lang="zh">凤凰聚焦 第1239集</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002113000 +0800" stop="20261002120000 +0800">
+		<title lang="zh">有报天天读 -2/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002120000 +0800" stop="20261002125500 +0800">
+		<title lang="zh">凤凰午间专列 -2/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002125500 +0800" stop="20261002130000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002130000 +0800" stop="20261002133000 +0800">
+		<title lang="zh">总编辑时间 -1/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002133000 +0800" stop="20261002140000 +0800">
+		<title lang="zh">环球同此凉热 第1集</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002140000 +0800" stop="20261002143000 +0800">
+		<title lang="zh">我们和牠们 第188集</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002143000 +0800" stop="20261002150000 +0800">
+		<title lang="zh">凤凰大视野</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002150000 +0800" stop="20261002155700 +0800">
+		<title lang="zh">凤凰正点播报 1500 -2/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002155700 +0800" stop="20261002160000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002160000 +0800" stop="20261002163000 +0800">
+		<title lang="zh">凤凰冲击播 第439集 -风云对话</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002163000 +0800" stop="20261002170000 +0800">
+		<title lang="zh">纪录大时代 第1639集</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002170000 +0800" stop="20261002173000 +0800">
+		<title lang="zh">冷暖人生 第445集</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002173000 +0800" stop="20261002180000 +0800">
+		<title lang="zh">有报天天读 -2/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002180000 +0800" stop="20261002182700 +0800">
+		<title lang="zh">凤凰焦点新闻 1800 -2/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002182700 +0800" stop="20261002183000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002183000 +0800" stop="20261002190000 +0800">
+		<title lang="zh">新闻今日谈 -2/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002190000 +0800" stop="20261002193000 +0800">
+		<title lang="zh">亚洲财经透视 第1238集</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002193000 +0800" stop="20261002200000 +0800">
+		<title lang="zh">总编辑时间 -2/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002200000 +0800" stop="20261002203000 +0800">
+		<title lang="zh">凤凰大视野</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002203000 +0800" stop="20261002210000 +0800">
+		<title lang="zh">凤凰冲击播 第243集 -空间观策</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002210000 +0800" stop="20261002215500 +0800">
+		<title lang="zh">时事直通车 -2/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002215500 +0800" stop="20261002220000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002220000 +0800" stop="20261002223000 +0800">
+		<title lang="zh">凤凰聚焦 第1240集</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002223000 +0800" stop="20261002230000 +0800">
+		<title lang="zh">凤凰全球连线 -2/10/26</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002230000 +0800" stop="20261002233000 +0800">
+		<title lang="zh">亚洲财经透视 第1238集</title>
+	</programme>
+	<programme channel="凤凰中文" start="20261002233000 +0800" stop="20261003000000 +0800">
+		<title lang="zh">新闻今日谈 -2/10/26</title>
+	</programme>
 	<channel id="凤凰资讯">
 		<display-name lang="zh">凤凰资讯</display-name>
 	</channel>
-	<programme channel="凤凰资讯" start="20260924000000 +0800" stop="20260924005700 +0800">
-		<title lang="zh">凤凰洲际快车</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924005700 +0800" stop="20260924010000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924010000 +0800" stop="20260924012700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924012700 +0800" stop="20260924013000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924013000 +0800" stop="20260924020000 +0800">
-		<title lang="zh">金石财经</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924020000 +0800" stop="20260924022700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924022700 +0800" stop="20260924023000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924023000 +0800" stop="20260924030000 +0800">
-		<title lang="zh">凤凰财经日报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924030000 +0800" stop="20260924032700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924032700 +0800" stop="20260924033000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924033000 +0800" stop="20260924040000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924040000 +0800" stop="20260924042700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924042700 +0800" stop="20260924043000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924043000 +0800" stop="20260924045700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924045700 +0800" stop="20260924050000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924050000 +0800" stop="20260924052700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924052700 +0800" stop="20260924053000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924053000 +0800" stop="20260924060000 +0800">
-		<title lang="zh">新闻今日谈</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924060000 +0800" stop="20260924062700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924062700 +0800" stop="20260924063000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924063000 +0800" stop="20260924070000 +0800">
-		<title lang="zh">凤凰聚焦</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924070000 +0800" stop="20260924075700 +0800">
-		<title lang="zh">凤凰早班车</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924075700 +0800" stop="20260924080000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924080000 +0800" stop="20260924085700 +0800">
-		<title lang="zh">凤凰早班车</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924085700 +0800" stop="20260924090000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924090000 +0800" stop="20260924092700 +0800">
-		<title lang="zh">凤凰正点播报 0900</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924092700 +0800" stop="20260924093000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924093000 +0800" stop="20260924100000 +0800">
-		<title lang="zh">金石财经</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924100000 +0800" stop="20260924105700 +0800">
-		<title lang="zh">凤凰正点播报 1000</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924105700 +0800" stop="20260924110000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924110000 +0800" stop="20260924112700 +0800">
-		<title lang="zh">凤凰正点播报 1100</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924112700 +0800" stop="20260924113000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924113000 +0800" stop="20260924120000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924120000 +0800" stop="20260924125500 +0800">
-		<title lang="zh">凤凰午间专列</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924125500 +0800" stop="20260924130000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924130000 +0800" stop="20260924132700 +0800">
-		<title lang="zh">凤凰正点播报 1300</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924132700 +0800" stop="20260924133000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924133000 +0800" stop="20260924140000 +0800">
-		<title lang="zh">金石财经</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924140000 +0800" stop="20260924142700 +0800">
-		<title lang="zh">凤凰正点播报 1400</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924142700 +0800" stop="20260924143000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924143000 +0800" stop="20260924150000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924150000 +0800" stop="20260924155700 +0800">
-		<title lang="zh">凤凰正点播报 1500</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924155700 +0800" stop="20260924160000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924160000 +0800" stop="20260924165700 +0800">
-		<title lang="zh">凤凰正点播报 1600</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924165700 +0800" stop="20260924170000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924170000 +0800" stop="20260924172700 +0800">
-		<title lang="zh">凤凰正点播报 1700</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924172700 +0800" stop="20260924173000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924173000 +0800" stop="20260924180000 +0800">
-		<title lang="zh">金石财经</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924180000 +0800" stop="20260924182700 +0800">
-		<title lang="zh">凤凰焦点新闻 1800</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924182700 +0800" stop="20260924183000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924183000 +0800" stop="20260924190000 +0800">
-		<title lang="zh">新闻今日谈</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924190000 +0800" stop="20260924195700 +0800">
-		<title lang="zh">华闻大直播</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924195700 +0800" stop="20260924200000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924200000 +0800" stop="20260924202700 +0800">
-		<title lang="zh">凤凰焦点新闻 2000</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924202700 +0800" stop="20260924203000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924203000 +0800" stop="20260924210000 +0800">
-		<title lang="zh">凤凰财经日报</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924210000 +0800" stop="20260924215500 +0800">
-		<title lang="zh">时事直通车</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924215500 +0800" stop="20260924220000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924220000 +0800" stop="20260924223000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924223000 +0800" stop="20260924230000 +0800">
-		<title lang="zh">新闻今日谈</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924230000 +0800" stop="20260924232700 +0800">
-		<title lang="zh">凤凰焦点新闻 2300</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924232700 +0800" stop="20260924233000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰资讯" start="20260924233000 +0800" stop="20260925000000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
 	<programme channel="凤凰资讯" start="20260925000000 +0800" stop="20260925005700 +0800">
 		<title lang="zh">凤凰洲际快车</title>
 	</programme>
@@ -2644,6 +2452,195 @@
 		<title lang="zh">凤凰气象站</title>
 	</programme>
 	<programme channel="凤凰资讯" start="20261001233000 +0800" stop="20261002000000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002000000 +0800" stop="20261002005700 +0800">
+		<title lang="zh">凤凰洲际快车</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002005700 +0800" stop="20261002010000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002010000 +0800" stop="20261002012700 +0800">
+		<title lang="zh">凤凰正点播报 0100</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002012700 +0800" stop="20261002013000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002013000 +0800" stop="20261002020000 +0800">
+		<title lang="zh">金石财经</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002020000 +0800" stop="20261002022700 +0800">
+		<title lang="zh">凤凰正点播报 0100</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002022700 +0800" stop="20261002023000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002023000 +0800" stop="20261002030000 +0800">
+		<title lang="zh">凤凰财经日报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002030000 +0800" stop="20261002032700 +0800">
+		<title lang="zh">凤凰正点播报 0100</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002032700 +0800" stop="20261002033000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002033000 +0800" stop="20261002040000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002040000 +0800" stop="20261002042700 +0800">
+		<title lang="zh">凤凰正点播报 0100</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002042700 +0800" stop="20261002043000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002043000 +0800" stop="20261002045700 +0800">
+		<title lang="zh">凤凰正点播报 0100</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002045700 +0800" stop="20261002050000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002050000 +0800" stop="20261002052700 +0800">
+		<title lang="zh">凤凰正点播报 0100</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002052700 +0800" stop="20261002053000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002053000 +0800" stop="20261002060000 +0800">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002060000 +0800" stop="20261002062700 +0800">
+		<title lang="zh">凤凰正点播报 0100</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002062700 +0800" stop="20261002063000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002063000 +0800" stop="20261002070000 +0800">
+		<title lang="zh">凤凰聚焦</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002070000 +0800" stop="20261002075700 +0800">
+		<title lang="zh">凤凰早班车</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002075700 +0800" stop="20261002080000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002080000 +0800" stop="20261002085700 +0800">
+		<title lang="zh">凤凰早班车</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002085700 +0800" stop="20261002090000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002090000 +0800" stop="20261002092700 +0800">
+		<title lang="zh">凤凰正点播报 0900</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002092700 +0800" stop="20261002093000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002093000 +0800" stop="20261002100000 +0800">
+		<title lang="zh">金石财经</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002100000 +0800" stop="20261002105700 +0800">
+		<title lang="zh">凤凰正点播报 1000</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002105700 +0800" stop="20261002110000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002110000 +0800" stop="20261002112700 +0800">
+		<title lang="zh">凤凰正点播报 1100</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002112700 +0800" stop="20261002113000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002113000 +0800" stop="20261002120000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002120000 +0800" stop="20261002125500 +0800">
+		<title lang="zh">凤凰午间专列</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002125500 +0800" stop="20261002130000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002130000 +0800" stop="20261002132700 +0800">
+		<title lang="zh">凤凰正点播报 1300</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002132700 +0800" stop="20261002133000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002133000 +0800" stop="20261002140000 +0800">
+		<title lang="zh">金石财经</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002140000 +0800" stop="20261002142700 +0800">
+		<title lang="zh">凤凰正点播报 1400</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002142700 +0800" stop="20261002143000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002143000 +0800" stop="20261002150000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002150000 +0800" stop="20261002155700 +0800">
+		<title lang="zh">凤凰正点播报 1500</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002155700 +0800" stop="20261002160000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002160000 +0800" stop="20261002165700 +0800">
+		<title lang="zh">凤凰正点播报 1600</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002165700 +0800" stop="20261002170000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002170000 +0800" stop="20261002172700 +0800">
+		<title lang="zh">凤凰正点播报 1700</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002172700 +0800" stop="20261002173000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002173000 +0800" stop="20261002180000 +0800">
+		<title lang="zh">金石财经</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002180000 +0800" stop="20261002182700 +0800">
+		<title lang="zh">凤凰焦点新闻 1800</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002182700 +0800" stop="20261002183000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002183000 +0800" stop="20261002190000 +0800">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002190000 +0800" stop="20261002195700 +0800">
+		<title lang="zh">华闻大直播</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002195700 +0800" stop="20261002200000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002200000 +0800" stop="20261002202700 +0800">
+		<title lang="zh">凤凰焦点新闻 2000</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002202700 +0800" stop="20261002203000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002203000 +0800" stop="20261002210000 +0800">
+		<title lang="zh">凤凰财经日报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002210000 +0800" stop="20261002215500 +0800">
+		<title lang="zh">时事直通车</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002215500 +0800" stop="20261002220000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002220000 +0800" stop="20261002223000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002223000 +0800" stop="20261002230000 +0800">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002230000 +0800" stop="20261002232700 +0800">
+		<title lang="zh">凤凰焦点新闻 2300</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002232700 +0800" stop="20261002233000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20261002233000 +0800" stop="20261003000000 +0800">
 		<title lang="zh">总编辑时间</title>
 	</programme>
 </tv>
